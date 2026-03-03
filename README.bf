@@ -1,3 +1,5 @@
+[Please take a look at the original project here: github.com/bf-enterprise-solutions/os.bf.git]
+
 [OS.BF---THE OS TO LAST
 
  OS.bf is the project to get operating systems to an effective minimum
